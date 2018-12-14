@@ -1,0 +1,14 @@
+/* Meu estilo */
+
+body,
+html{
+	margin:  0; 
+	padding: 0;
+	font-size:18px;
+}
+
+body{
+	background:#ccc url(https://www.cssauthor.com/wp-content/uploads/2013/07/Blurred-Background_2.jpg) center top no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+}
